@@ -1,3 +1,8 @@
-h1{
-    background-color: palevioletred;
+h1 {
+  background-color: palevioletred;
+}
+
+button {
+  border: 1px solid nyan;
+  border-radius: 10px;
 }
