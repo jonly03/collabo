@@ -1,8 +1,11 @@
-h1 {
-  background-color: palevioletred;
+h1{
+    background-color: palevioletred;
 }
 
 button {
+  background-color: #4CAF50;
   border: 1px solid nyan;
+  color: white;
+  padding: 15px 32px;
   border-radius: 10px;
 }
